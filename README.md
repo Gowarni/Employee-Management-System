@@ -75,7 +75,11 @@ After running the application:
 ```http
 http://localhost:8080/swagger-ui/index.html
 ```
+## Swagger Documentation
 
+Swagger UI for testing all REST APIs.
+
+![Swagger UI](screenshots/SwaggerUI.png)
 ## Database Configuration
 
 Update `application.properties`:
